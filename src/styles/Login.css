@@ -1,0 +1,14 @@
+div #formMain{
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    height: 850px;
+    position: relative;
+    bottom:  45px;
+    box-shadow: rgb(243, 243, 243) 100px 30px 30px ;
+}
+ #span{
+   color: rgb(255, 28, 104);
+ }
+ .span{
+    color: rgb(255, 28, 104);
+ }

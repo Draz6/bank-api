@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+#nav{
+     /*background-color: rgb(98, 0, 255);*/
+     background-color: rgb(59, 59, 171);
+    height: 60px;
+    position: relative;
+    bottom: 10px;
+    box-shadow: rgb(148, 148, 148) 30px 5px 20px ;  
+}
+#navList{
+    display: flex;
+    justify-content: left;
+}
+#navList li{
+    list-style-type: none;
+    color: white;
+    margin: 2px; 
+    padding: 2px;
+    position: relative;
+}
+#logo{
+    position: absolute;
+    left: 5%;
+    bottom: 10px;
+    color:white;  
+}
+.menu{
+    color: white;
+    display: flex;
+    justify-content: right;
+    padding: 15px;
+}
